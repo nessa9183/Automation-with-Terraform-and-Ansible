@@ -1,0 +1,8 @@
+---
+- name: This playbook defines all the roles to be run
+  hosts: linux
+  roles:
+    - datadisk
+    - system_profile
+    - users
+    - webserver
