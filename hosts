@@ -1,9 +1,9 @@
 [linux]
-linux0171-vm-1.canadacentral.cloudapp.azure.com
-linux0171-vm-2.canadacentral.cloudapp.azure.com
+linux0171-vm-1
+linux0171-vm-2
 
 [windows]
-window0171-vm.canadacentral.cloudapp.azure.com
+window0171-vm
 
 [os:children]
 linux
